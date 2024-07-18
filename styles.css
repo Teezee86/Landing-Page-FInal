@@ -1,0 +1,10 @@
+#nav-bar {
+    position: fixed;
+    display: flex;
+    padding: 0;
+    margin: 0;}
+
+
+    @media screen and(max-width: 300px) {
+    #nav-bar {background-color: black;}
+  }
